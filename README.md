@@ -9,12 +9,12 @@ For this assignment you have to implement a small NextJS app that communicates w
 6. For any data fetching, you must use Redux + Redux-thunk, you may also need to use next-redux-wrapper
 7. Write automated test cases (It is up to you what type of testing you want to implement)
 8. Deploy your code to Vercel
-## Want to build a masterpiece 🤓 (Bouns)
+## Want to build a masterpiece 🤓 (Bonus)
 1. Implement suitable type of caching for API Jsonplacholder requests
 2. Add Error pages in case something wrong happened
 3. Use sentry for errors reporting
 
-## Do you want to impress us 🤩 (Bouns level 2)
+## Do you want to impress us 🤩 (Bonus level 2)
 1. Host your app using serverless architecture
 2. Use service workers
 
